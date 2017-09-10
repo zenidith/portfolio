@@ -34,18 +34,18 @@
   <div class="container">
 
     <div class="navbar-header">
-      <a class="navbar-brand" href="index.html"><img style="max-width:20px; margin-top: -5px;" src="bug.svg">kayne_web_dev</a>
+      <a class="navbar-brand" href="index.html"><img style="max-width:18px; margin-top: -3px;" src="bug.svg">kayne_web_dev</a>
     </div>
 
     <div style="display: inline-block;">
       <ul class="nav navbar-nav">
-        <li><a href="#">About</a>
+        <li><a href="#aboutme">About</a>
         </li>
-        <li><a href="#">Skills</a>
+        <li><a href="#skillsme">Skills</a>
         </li>
-        <li><a href="#">Education</a>
+        <li><a href="#edume">Education &nbsp / &nbsp Experience</a>
         </li>
-        <li><a href="#">Contact</a>
+        <li><a href="#contactme">Contact</a>
         </li>
       </ul>
     </div>
@@ -85,7 +85,7 @@
 <div class="container-fluid">
   <div class="row">
 
-    <div class="col-sm-6 content1-left">
+    <div id="aboutme" class="col-sm-6 content1-left">
 
             <p>
             <span>After gaining some connections through my passionate pastime of running events and DJ’ing around Melbourne, I built a few basic websites for select events and promotions companies, I developed a keen interest in taking my web development skills further and explore the opportunity of a career change.</span> 
@@ -100,7 +100,7 @@
             </p>
     </div>
   
-    <div class="col-sm-3 content1-center">
+    <div id="skillsme" class="col-sm-3 content1-center">
       <p> Some of my skills include...</p>
         <div class="devicon">
 
@@ -119,7 +119,7 @@
         </div>
     </div>
   
-    <div class="col-sm-3 content1-right">
+    <div id="edume" class="col-sm-3 content1-right">
     <h3>Education</h3>
 
     <h4>Coder Factory Academy, 2017</h4>
@@ -176,11 +176,11 @@
 
 
         <article class="index-form">
-          <div class="container">
+          <div id="contactme" class="container">
            <div class="row">
               <div class="col-sm-4"></div>            
               <div class="col-sm-4">
-                <form>
+                <form action="https://formspree.io/kaynesheenan@gmail.com" method="POST">
                   <div class="form-group">
                     <label for="name">Full name: </label>
                     <input class="form-control" type="text" name="name">
@@ -211,7 +211,10 @@
 </div>
     <footer id="myFooter">
         <div class="container">
+          <div class="email">
         <p class="footer-copyright">© 2017 kayne_web_dev</p>
+          <a href="mailto:kaynesheenan+portfolio@gmail.com?Subject=You%20are%20a%20winner" class="btn btn-md btn-default btn-block">Email me...</a>
+          </div>
         </div>
 
         <div class="footer-social">
