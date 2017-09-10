@@ -58,7 +58,7 @@
 
 .index-intro .jumbotron{
 	font-family: 'Source Sans Pro', sans-serif;
-	padding: 140px 60px;
+	padding: 120px 40px;
 	margin-top: 40px;
 	margin-bottom: 80px;
 
@@ -99,7 +99,7 @@
   font-weight: normal;
   line-height: 120%;
   padding-top: 50px;
-  color: #f3f3f3;
+  color: #C3DFFF;
 
 }
 .content1-right {
@@ -132,7 +132,7 @@
   font-weight: normal;
 /*  line-height: 120%;
   padding-top: 50px;
-*/  color: #f3f3f3;
+*/  color: #C3DFFF;
 
 }
 
@@ -168,6 +168,10 @@
 	padding-bottom: 60px;
 }
 
+
+.contactme {
+  color: ##C3DFFF;
+}
 
 /* footer stuff */
 
