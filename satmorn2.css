@@ -24,9 +24,6 @@
     border-color: #E7E7E7;
 }
 
-
-
-
 .jumbotron h1 {
 	color: #fff;
 	font-weight: italic;
@@ -72,12 +69,12 @@
 
 }
 .content1-left p{
-	font-size: 18px;
+	font-size: 160%;
 	padding-top: 50px;
-	line-height: 200%;
+  font-weight: normal;
+	line-height: 120%;
 	padding-top: 50px;
-	opacity: .8;
-	color: #fff;
+	color: #f3f3f3;
 
 }
 
@@ -89,33 +86,38 @@
 .content1-center {
 	font-family: 'Source Sans Pro', sans-serif;
  	background-color: #527FFF;
-  	height: 600px;
+  height: 600px;
 }
 
 .content1-center p{
-/*	padding-top: 50px;
-	opacity: .8;
-	color: #fff;*/
+  font-size: 160%;
+  padding-top: 50px;
+  font-weight: normal;
+  line-height: 120%;
+  padding-top: 50px;
+  color: #f3f3f3;
 
 }
 .content1-right {
-  	font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 	background-color: #4972E5;
-    height: 600px;
+  height: 600px;
 }
 
-.content1-right .devicon{
-	padding-top: 45px;
+.content1-center .devicon{
+	padding-top: 40px;
 	padding-bottom: 25px;
-	font-size: 5em;
+	font-size: 6.5em;
 		}
 
 
-.content1-right p{
-	font-size: 20px;
-	padding-top: 50px;
-	opacity: .8;
-	color: black;
+.content1-right h3{
+  font-size: 160%;
+  padding-top: 50px;
+  font-weight: normal;
+  line-height: 120%;
+  padding-top: 50px;
+  color: #f3f3f3;
 
 }
 
