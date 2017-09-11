@@ -25,11 +25,24 @@ Bootstrap
 ## Inspiration - from other portfolios
 
 <ul>
-<li>Paige Richards</li>
-<li>William Chow</li>
-<li>Firman Cahyandi</li>
-<li>Adrian Mancuso</li>
-<li>Shohei Yamauchi</li>
+<li><a href="https://github.com/paigerichards/paigerichards.github.io">Paige Richards</a></li>
+
+<br>
+
+<li><a href="http://williamypchow.com">William Chow</a></li>
+
+<br>
+
+<li><a href="http://www.firmanc.com">Firman Cahyandi</a></li>
+
+<br>
+
+<li><a href="http://mancuso.tech">Adrian Mancuso</a></li>
+
+<br>
+
+<li><a href="http://shouhei.io">Shohei Yamauchi</a></li>
+
 </ul>
 
 <br>
