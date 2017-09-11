@@ -126,15 +126,14 @@ Namely,
 
 <br>
 
+<em>
 Only could get so far with my skills
 Consulted 2 web development professionals with 10+ years experience each;
 One said to use bootstrap - the other said do not use bootstrap…
 I considered what to do, aware that it would take me a while to learn bootstrap - but I thought I would give it a go…
 Lots of trial and error...
-
+</em>
  
-(picture of the first page)
-
 
 ## Navbar
 
