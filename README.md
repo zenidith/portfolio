@@ -79,25 +79,25 @@ as well as various random people
 
 <br>
 
-<strong>William Chow</strong>
+<strong><a href="http://williamypchow.com">William Chow</a></strong>
 
 <br>
 
 <img src="/pictures/9.png">
 
-<strong>Firman Cahyandi</strong>
+<strong><a href="http://www.firmanc.com">Firman Cahyandi</a></strong>
 
 <br>
 
 <img src="/pictures/10.png">
 
-<strong>Adrian Mancuso</strong>
+<strong><a href="http://mancuso.tech">Adrian Mancuso</a></strong>
 
 <br>
 
 <img src="/pictures/11.png">
 
-<strong>Shohei Yamuchi</strong>
+<strong><a href="http://shouhei.io">Shohei Yamauchi</a></strong>
 
 <br>
 
