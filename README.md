@@ -52,13 +52,19 @@ Random people
 <img src="/pictures/10.png">
 
 <strong>Adrian Mancuso</strong>
+
 <br>
+
 <img src="/pictures/11.png">
 
 <strong>Shohei Yamuchi</strong>
 
 <br>
+
 <img src="/pictures/12.png">
+
+<br>
+
 <img src="/pictures/13.png">
 
 
@@ -105,12 +111,14 @@ At this stage of my project, I started to think that somethings needed to be imp
 Namely, 
 
 <em>
-Colours;
-3 choice, titled navbar;
-Simple design;
-Splash image;
-Education/experience/skills;
-Contact.
+ <ul>
+ <li>Colours;</li>
+ <li>3 choice, titled navbar;</li>
+ <li>Simple design;</li>
+ <li>Splash image;</li>
+ <li>Education/experience/skills;</li>
+ <li>Contact.</li>
+ </ul>
 </em>
 
 ## First design...
@@ -196,6 +204,8 @@ Optimise html/css with minify.
 Make it more ME
 Compile all information in Read Me for Github
 Complete!
+
+### Challenges
 
 ### Optimisation
 
