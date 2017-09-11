@@ -113,6 +113,10 @@ A colour scheme came to me randomly.
 
 <br>
 
+<p> Although there was no actual rhyme or reason to me choosing these colours. I checked later on the Adobe triad wheel - to see if they linked at all, stylistically, but there was no connection. So I kinda just used a gradient version of purple in the content section later on. </p>
+
+<br>
+
 <img src="/pictures/14.png">
 
 ## Pinterest:
