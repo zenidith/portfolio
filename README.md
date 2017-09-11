@@ -161,6 +161,9 @@ I considered what to do, aware that it would take me a while to learn bootstrap 
 Lots of trial and error...
 </em>
  
+ <br>
+ 
+ <h3>solution? Bootstrap!</h3>
 
 ## Navbar
 
