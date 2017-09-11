@@ -174,12 +174,23 @@ Lots of trial and error...
 
 ## Jumbotron
 
+<p> I loved the jumbotron feature in Bootstrap - so I decided to look for some photographs on Upsplash that might reflect my personality. Initially, i chose some pictures of coffee cups as well as records - because I love these things. But I ended up choosing a picture of a computer and glasses</p>
+
 <br>
 
 <img src="/pictures/22.png">
 
 
 ## Content area (grid - 12 sections)
+<p> Bootstrap uses a grid design where the page is divided into 12 sections - and the coder chooses the size the page might be viewed on usually. 
+
+There are four classes:
+
+<ul>
+<li>xs (for phones)</li>
+<li>sm (for tablets)</li>
+<li>md (for desktops)</li>
+<li>lg (for larger desktops)</li>
 
 <br>
 
