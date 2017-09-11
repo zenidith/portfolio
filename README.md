@@ -40,11 +40,15 @@ Random people
 <img src="/pictures/8.png">
 
 <strong>William Chow</strong>
+
 <br>
+
 <img src="/pictures/9.png">
 
-Firman Cahyandi
+<strong>Firman Cahyandi</strong>
+
 <br>
+
 <img src="/pictures/10.png">
 
 <strong>Adrian Mancuso</strong>
