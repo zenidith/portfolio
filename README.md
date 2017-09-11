@@ -123,6 +123,8 @@ A colour scheme came to me randomly.
 
 <a href="https://au.pinterest.com/kaynesheenan/portfolio-website/">my pinterest board for portfolio project</a>.
 
+<p> I was a little hesitant to use Pinterest, because I didn't really see the point of it, but I just started to look at photos by searching the three colours that had just come to me. I did find some interesting photos of colours that I like, and did try to emulate these actual colours on the page. I think there was some benefit in looking at photos and letting your imagination flow a little bit. I will try to use this again, along with more 'mood board' applications. </p>
+
 <img src="/pictures/15.png">
 <br>
 <img src="/pictures/16.png">
@@ -136,7 +138,8 @@ I started out in Figma with the smallest screen - and tried to develop it up to 
 
 <img src="/pictures/18.png">
 
-However, what I decided to keep from my Figma designs were the font as well as the icon I used for my site.
+<p> However, what I decided to keep from my Figma designs were the font as well as the icon I used for my site. Funnily, my DJ name is 'Malware', so I decided to find an image of a 'malware' icon, to integrate into my 'brand'/portfolio.</p>
+
 <br>
 
 <img src="/pictures/19.png">
