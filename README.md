@@ -24,20 +24,47 @@ Bootstrap
 
 ## Inspiration - from other portfolios
 
-Paige Richards
-William Chow
-Firman Cahyandi
-Adrian Mancuso
-Shohei Yamauchi
+<ul>
+<li>Paige Richards</li>
+<li>William Chow</li>
+<li>Firman Cahyandi</li>
+<li>Adrian Mancuso</li>
+<li>Shohei Yamauchi</li>
+</ul>
 
-Random people
+<br>
+
+as well as various random people
+
+<br>
+
 <img src="/pictures/2.png">
+
+<br>
+
 <img src="/pictures/3.png">
+
+<br>
+
 <img src="/pictures/4.png">
+
+<br>
+
 <img src="/pictures/5.png">
+
+<br>
+
 <img src="/pictures/6.png">
+
+<br>
+
 <img src="/pictures/7.png">
+
+<br>
+
 <img src="/pictures/8.png">
+
+<br>
 
 <strong>William Chow</strong>
 
