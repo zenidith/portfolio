@@ -20,6 +20,7 @@ Bootstrap
 
 ## Bought a domain name
 
+<img src="/pictures/1.png">
 
 ## Inspiration - from other portfolios
 
@@ -83,7 +84,7 @@ Lots of trial and error...
 
 ## Devicons
 
-I got this link from Nathaniel who linked it for us in slack. I had some troble increasing the size of them - but I figured out that they were increased by 'font-size'. <a href="http://konpa.github.io/devicon/>"Devicon link</a>
+I got this link from Nathaniel who linked it for us in slack. I had some troble increasing the size of them - but I figured out that they were increased by 'font-size'. <a href="http://konpa.github.io/devicon/">Devicon link</a>
 
 (picture)
 
