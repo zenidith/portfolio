@@ -194,6 +194,8 @@ There are four classes:
 
 <br>
 
+<p> I decided to have 3 sections - the first takes up half the page (6/12) and the other two sections take up one quarter each (3/12). I had to adjust the fonts for the blurb and devicons individually for each section - I played with pixel size, em as well as percentage</p>
+
 <img src="/pictures/23.png">
 
 
