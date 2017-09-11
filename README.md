@@ -100,13 +100,19 @@ as well as various random people
 ## Colour scheme...
 
 A colour scheme came to me randomly.
+
 <br>
+
 <strong>
-Blue
-Silver
-Purple
+<ul>
+<li>Blue</li>
+<li>Silver</li>
+<li>Purple</li>
+</ul>
 </strong>
+
 <br>
+
 <img src="/pictures/14.png">
 
 ## Pinterest:
