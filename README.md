@@ -1,7 +1,7 @@
 # portfolio
 <h2> kayne_web_dev </h2>
 
-My portfolio website done for Coder Factory Academy as a project, but viewable by other students, future employers/clients as well as LinkedIn fraternity. <a href="https://goo.gl/Y7w6YD">presentation</a>
+My portfolio website done for Coder Factory Academy as a project, but viewable by other students and clients <a href="https://goo.gl/Y7w6YD">presentation</a>
 
 ## Tools and Resources
 
